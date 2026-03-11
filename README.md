@@ -1,8 +1,8 @@
-# Jixel
+# Jexel
 A modern, futuristic pixel-style font inspired by technology, gaming, and cyberpunk culture.
 
 ## Overview
-Jixel is a sleek pixel font designed for tech-forward creative projects. Combining clean geometric shapes with a sharp digital aesthetic, it’s perfect for:
+Jexel is a sleek pixel font designed for tech-forward creative projects. Combining clean geometric shapes with a sharp digital aesthetic, it’s perfect for:
 - Logos & branding
 - UI/UX design
 - Game interfaces
